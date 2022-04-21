@@ -1,4 +1,4 @@
-# Get started grd package
+# Get started GRD package
 
 ![](preview.png)
 
