@@ -1,3 +1,5 @@
-# repo-template
+# Get started grd package
 
-![](preview.gif)
+![](preview.png)
+
+[GRD Package](https://1000ch.github.io/grd/)

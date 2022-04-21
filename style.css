@@ -1,3 +1,11 @@
+*{
+    font-family: monospace;
+}
+
+body{
+    padding: 2rem;
+}
+
 .Grid div{
     background-color: red;
     height: 100px;
